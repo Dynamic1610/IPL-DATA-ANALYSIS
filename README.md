@@ -17,5 +17,6 @@ This is a mini data analysis project on IPL using Python, Pandas and Matplotlib.
 ## Dataset:
 - matches.csv
 - deliveries.csv (both from Kaggle)
+- diliveries.csv dataset was too large to upload o GitHub.
 
 Made by Ronit 💻
